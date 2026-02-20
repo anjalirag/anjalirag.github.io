@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, The University of Texas at Austin (current)
+* MS/PhD in Electrical and Computer Engineering, The University of Texas at Austin (current)
 * B.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2025
 
 Work experience
@@ -25,16 +25,7 @@ Work experience
 
 * 2023-2024: Research Assistant
   * Microelectronics Research Center
-  * Supervisor: Dr. Ananth Dodabalapur
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
